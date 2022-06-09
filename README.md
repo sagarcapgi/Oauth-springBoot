@@ -23,6 +23,7 @@ Step 8 :  click on Body Select "x-www-form-urlencoded" and down below you will s
                                     
 Step 9 :  click on send you will get bearer token copy that bearer token
 --
+
 Step 10 : GOTO to chrome and give this url http://localhost:8080/users/user?access_token= Step 9 copied token like this http://localhost:8080/users/user?access_token=9966034f-dc50-48ae-9db7-194b9c4e010a
 --
 
